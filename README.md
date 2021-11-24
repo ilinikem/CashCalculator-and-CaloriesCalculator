@@ -22,7 +22,7 @@
 
 Переходим в папку с проектом
 
-<code>Calculator-and-CaloriesCalculator</code>
+<code>CashCalculator-and-CaloriesCalculator</code>
 
 Устанавливаем отдельное виртуальное окружение для проекта
 
