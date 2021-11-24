@@ -18,7 +18,7 @@
 
 Клонируем репозиторий 
 
-<code>git clone https://github.com/ilinikem/Calculator-and-CaloriesCalculator.git</code>
+<code>git clone https://github.com/ilinikem/CashCalculator-and-CaloriesCalculator.git</code>
 
 Переходим в папку с проектом
 
